@@ -1,9 +1,13 @@
 References:
 
 [1] FAO. (2023). The State of Food and Agriculture 2023: Revealing the true cost of food to transform agrifood systems. Food and Agriculture Organization of the United Nations. https://www.fao.org/documents/card/en/c/cc7720en
+
 [2] Ahmad, M. I., Oxley, L., Ma, H., & Liu, R. (2023). Does rural livelihood change? Household capital, climate shocks and farm entry-exit decisions in rural Pakistan. Frontiers in Environmental Science, 10, 857082.https://doi.org/10.3389/fenvs.2022.857082
+
 [3] Wang, B., Li, L., Feng, P., Chen, C., Luo, J. J., Taschetto, A. S., ... & Guo, X. (2024). Probabilistic analysis of drought impact on wheat yield and climate change implications. Weather and Climate Extremes, 45, 100708. https://doi.org/10.1016/j.wace.2024.100708
+
 [4] Koech, R., & Langat, P. (2018). Improving irrigation water use efficiency: A review of advances, challenges and opportunities in the Australian context. Water, 10(12), 1771.https://doi.org/10.3390/w10121771
+
 [5] Lu, J., Hu, T., Li, Y., Cui, X., Cheng, M., Yan, S., ... & Xiong, Y. (2024). Effects of different water management strategies on critical nitrogen concentration dilution curves, nitrogen accumulation, and grain yield in winter wheat. Agriculture Communications, 2(3), 100052. https://doi.org/10.1016/j.agrcom.2024.100052
 [6] Schillerberg, T. A., & Tian, D. (2024). Global assessment of compound climate extremes and exposures of population, agriculture, and forest lands under two climate scenarios. Earth's Future, 12(9), e2024EF004845. https://doi.org/10.1029/2024EF004845
 [7] Sun, J., Zhang, Q., Liu, X., Sun, J., Chen, L., Wu, Y., ... & Zhang, G. (2024). Flash droughts in a hotspot region: Spatiotemporal patterns, possible climatic drivings and ecological impacts. Weather and Climate Extremes, 45, 100700. https://doi.org/10.1016/j.wace.2024.100700
