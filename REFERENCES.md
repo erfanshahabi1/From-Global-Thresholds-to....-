@@ -1,4 +1,5 @@
-References
+References:
+
 [1] FAO. (2023). The State of Food and Agriculture 2023: Revealing the true cost of food to transform agrifood systems. Food and Agriculture Organization of the United Nations. https://www.fao.org/documents/card/en/c/cc7720en
 [2] Ahmad, M. I., Oxley, L., Ma, H., & Liu, R. (2023). Does rural livelihood change? Household capital, climate shocks and farm entry-exit decisions in rural Pakistan. Frontiers in Environmental Science, 10, 857082.https://doi.org/10.3389/fenvs.2022.857082
 [3] Wang, B., Li, L., Feng, P., Chen, C., Luo, J. J., Taschetto, A. S., ... & Guo, X. (2024). Probabilistic analysis of drought impact on wheat yield and climate change implications. Weather and Climate Extremes, 45, 100708. https://doi.org/10.1016/j.wace.2024.100708
