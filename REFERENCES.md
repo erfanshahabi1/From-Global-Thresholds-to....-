@@ -2,11 +2,11 @@ References:
 
 [1] FAO. (2023). The State of Food and Agriculture 2023: Revealing the true cost of food to transform agrifood systems. Food and Agriculture Organization of the United Nations. https://www.fao.org/documents/card/en/c/cc7720en
 
-[2] Ahmad, M. I., Oxley, L., Ma, H., & Liu, R. (2023). Does rural livelihood change? Household capital, climate shocks and farm entry-exit decisions in rural Pakistan. Frontiers in Environmental Science, 10, 857082.https://doi.org/10.3389/fenvs.2022.857082
+[2] Ahmad, M. I., Oxley, L., Ma, H., & Liu, R. (2023). Does rural livelihood change? Household capital, climate shocks and farm entry-exit decisions in rural Pakistan. Frontiers in Environmental Science, 10, 857082. https://doi.org/10.3389/fenvs.2022.857082
 
 [3] Wang, B., Li, L., Feng, P., Chen, C., Luo, J. J., Taschetto, A. S., ... & Guo, X. (2024). Probabilistic analysis of drought impact on wheat yield and climate change implications. Weather and Climate Extremes, 45, 100708. https://doi.org/10.1016/j.wace.2024.100708
 
-[4] Koech, R., & Langat, P. (2018). Improving irrigation water use efficiency: A review of advances, challenges and opportunities in the Australian context. Water, 10(12), 1771.https://doi.org/10.3390/w10121771
+[4] Koech, R., & Langat, P. (2018). Improving irrigation water use efficiency: A review of advances, challenges and opportunities in the Australian context. Water, 10(12), 1771. https://doi.org/10.3390/w10121771
 
 [5] Lu, J., Hu, T., Li, Y., Cui, X., Cheng, M., Yan, S., ... & Xiong, Y. (2024). Effects of different water management strategies on critical nitrogen concentration dilution curves, nitrogen accumulation, and grain yield in winter wheat. Agriculture Communications, 2(3), 100052. https://doi.org/10.1016/j.agrcom.2024.100052
 
@@ -16,86 +16,66 @@ References:
 
 [8] Hill, C. B., Angessa, T. T., Westcott, S., McFawn, L. A., Shirdelmoghanloo, H., Han, Y., & Li, C. (2024). Evaluation of the impact of heat stress at flowering on spikelet fertility and grain quality in barley. Agriculture Communications, 2(4), 100066. https://doi.org/10.1016/j.agrcom.2024.100066 
 
-[9] Qing, Y., Wang, S., Yang, Z. L., Gentine, P., Zhang, B., & Alexander, J. (2023). Accelerated soil drying linked to increasing evaporative demand in wet regions. npj Climate and Atmospheric Science, 6(1), 205.https://doi.org/10.1038/s41612-023-00531-y
+[9] Li, Y., White, R., Chen, D., Zhang, J., Li, B., Zhang, Y., ... & Edis, R. (2007). A spatially referenced water and nitrogen management model (WNMM) for (irrigated) intensive cropping systems in the North China Plain. Ecological modelling, 203(3-4), 395-423. https://doi.org/10.1016/j.ecolmodel.2006.12.011
 
-[10] Li, Y., White, R., Chen, D., Zhang, J., Li, B., Zhang, Y., ... & Edis, R. (2007). A spatially referenced water and nitrogen management model (WNMM) for (irrigated) intensive cropping systems in the North China Plain. Ecological modelling, 203(3-4), 395-423. https://doi.org/10.1016/j.ecolmodel.2006.12.011
+[10] Ma, S., He, B., Ge, X., & Luo, X. (2023). Spatial prediction of soil salinity based on the Google Earth Engine platform with multitemporal synthetic remote sensing images. Ecological Informatics, 75, 102111. https://doi.org/10.1016/j.ecoinf.2023.102111
 
-[11] Ma, S., He, B., Ge, X., & Luo, X. (2023). Spatial prediction of soil salinity based on the Google Earth Engine platform with multitemporal synthetic remote sensing images. Ecological Informatics, 75, 102111. https://doi.org/10.1016/j.ecoinf.2023.102111
+[11] Subedi, B., Poudel, A., & Aryal, S. (2023). The impact of climate change on insect pest biology and ecology: Implications for pest management strategies, crop production, and food security. Journal of Agriculture and Food Research, 14, 100733. https://doi.org/10.1016/j.jafr.2023.100733
 
-[12] Subedi, B., Poudel, A., & Aryal, S. (2023). The impact of climate change on insect pest biology and ecology: Implications for pest management strategies, crop production, and food security. Journal of Agriculture and Food Research, 14, 100733. https://doi.org/10.1016/j.jafr.2023.100733
+[12] Blocher, J. M., Hoffmann, R., & Weisz, H. (2024). The effects of environmental and non-environmental shocks on livelihoods and migration in Tanzania. Population and Environment, 46(1), 7. https://doi.org/10.1007/s11111-024-00449-4
 
-[13] Blocher, J. M., Hoffmann, R., & Weisz, H. (2024). The effects of environmental and non-environmental shocks on livelihoods and migration in Tanzania. Population and Environment, 46(1), 7.https://doi.org/10.1007/s11111-024-00449-4
+[13] Molavi, A. M., & Shavali, K. K. (2018). Consideration of Interpolation Methods on Precipitation and Temperature Data in Southern Caspian Sea Region (Summer and Winter). https://sid.ir/paper/158094/en
 
-[14] Clarotto, L., Allard, D., Romary, T., & Desassis, N. (2024). The SPDE approach for spatio-temporal datasets with advection and diffusion. Spatial Statistics, 62, 100847. https://doi.org/10.1016/j.spasta.2024.100847
+[14] Zhang, Q., Schmidt, A. M., & Chaubey, Y. P. (2024). Modeling left-censored skewed spatial processes: The case of arsenic drinking water contamination. Spatial Statistics, 59, 100816. https://doi.org/10.1016/j.spasta.2024.100816
 
-[15] Hrast Essenfelder, A., Toreti, A., & Seguini, L. (2025). Expert-driven explainable artificial intelligence models can detect multiple climate hazards relevant for agriculture. Communications Earth & Environment, 6(1), 207. https://doi.org/10.1038/s43247-024-01987-3
+[15] Linardatos, P., Papastefanopoulos, V., & Kotsiantis, S. (2020). Explainable ai: A review of machine learning interpretability methods. Entropy, 23(1), 18.‏ https://doi.org/10.3390/e23010018
 
-[16] Molavi, A. M., & Shavali, K. K. (2018). Consideration of Interpolation Methods on Precipitation and Temperature Data in Southern Caspian Sea Region (Summer and Winter). https://sid.ir/paper/158094/en
+[16] Bhoopathi, S., Sumanth, K., Akanksha, L., & Pal, M. (2024). Evaluating the performance of ANN, SVR, RF, and XGBoost in the prediction of maximum temperature and heat wave days over Rajasthan, India. Journal of Hydrologic Engineering, 29(6), 04024044. https://doi.org/10.1061/JHYEFF.HEENG-6243
 
-[17] He, S., & Wong, S. W. (2024). Spatio-temporal data fusion for the analysis of in situ and remote sensing data using the INLA-SPDE approach. Spatial Statistics, 64, 100863. https://doi.org/10.1016/j.spasta.2024.100863
+[17] Souaissi, Z., Ouarda, T. B., & St-Hilaire, A. (2023). Non-parametric, semi-parametric, and machine learning models for river temperature frequency analysis at ungauged basins. Ecological Informatics, 75, 102107. https://doi.org/10.1016/j.ecoinf.2023.102107
 
-[18] Akpuluma, D., Früh, W. G., Firoz, N., Abam, J., Bello, M. U., Williams, C., & Okpu, A. O. (2024). Comparative Analysis of LSTM-Based PV Power Forecasting Models with Climate-Adaptive Feature Selection in Abuja, Nigeria. http://dx.doi.org/10.25673/118131 
+[18] Rocchi, A., Chiozzi, A., Nale, M., Nikolic, Z., Riguzzi, F., Mantovan, L., Gilli, A., & Benvenuti, E. (2022). A machine learning framework for multi-hazard risk assessment at the regional scale in earthquake and flood-prone areas. Applied Sciences, 12(2), 583.‏ https://doi.org/10.3390/app12020583
 
-[19] Masoudi, M., & Elhaeesahar, M. (2016). Trend assessment of climate changes in Khuzestan Province, Iran. Natural Environment Change, 2(2), 143-152. https://jnec.ut.ac.ir/article_60997_7927.html
+[19] Du, P., Huai, H., Wu, X., Wang, H., Liu, W., & Tang, X. (2025). Using XGBoost-SHAP for understanding the ecosystem services trade-off effects and driving mechanisms in ecologically fragile areas. Frontiers in Plant Science, 16, 1552818. https://doi.org/10.3389/fpls.2025.1552818
 
-[20] Zhang, Q., Schmidt, A. M., & Chaubey, Y. P. (2024). Modeling left-censored skewed spatial processes: The case of arsenic drinking water contamination. Spatial Statistics, 59, 100816. https://doi.org/10.1016/j.spasta.2024.100816
+[20] García, M. V., & Aznarte, J. L. (2020). Shapley additive explanations for NO2 forecasting. Ecological Informatics, 56, 101039. https://doi.org/10.1016/j.ecoinf.2019.101039
 
-[21] Linardatos, P., Papastefanopoulos, V., & Kotsiantis, S. (2020). Explainable ai: A review of machine learning interpretability methods. Entropy, 23(1), 18.‏ https://doi.org/10.3390/e23010018
+[21] Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., ... & Thépaut, J. N. (2023). ERA5 monthly averaged data on pressure levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), 10. https://doi.org/10.24381/cds.f17050d7
 
-[22] Du, P., Huai, H., Wu, X., Wang, H., Liu, W., & Tang, X. (2025). Using XGBoost-SHAP for understanding the ecosystem services trade-off effects and driving mechanisms in ecologically fragile areas. Frontiers in Plant Science, 16, 1552818. https://doi.org/10.3389/fpls.2025.1552818
+[22] Molavi‐Arabshahi, M., Arpe, K., & Leroy, S. A. G. (2016). Precipitation and temperature of the southwest Caspian Sea region during the last 55 years: Their trends and teleconnections with large‐scale atmospheric phenomena. International Journal of Climatology, 36(5), 2156-2172. https://doi.org/10.1002/joc.4483
 
-[23] Bhoopathi, S., Sumanth, K., Akanksha, L., & Pal, M. (2024). Evaluating the performance of ANN, SVR, RF, and XGBoost in the prediction of maximum temperature and heat wave days over Rajasthan, India. Journal of Hydrologic Engineering, 29(6), 04024044. https://doi.org/10.1061/JHYEFF.HEENG-6243
+[23] McMaster, G. S., & Wilhelm, W. W. (1997). Growing degree-days: one equation, two interpretations. Agricultural and forest meteorology, 87(4), 291-300. https://doi.org/10.1016/S0168-1923(97)00027-0 
 
-[24] García, M. V., & Aznarte, J. L. (2020). Shapley additive explanations for NO2 forecasting. Ecological Informatics, 56, 101039. https://doi.org/10.1016/j.ecoinf.2019.101039
+[24] Hinis, M. A., & Geyikli, M. S. (2023). Accuracy evaluation of standardized precipitation index (SPI) estimation under conventional assumption in Yeşilırmak, Kızılırmak, and Konya Closed Basins, Turkey. Advances in Meteorology, 2023(1), 5142965. https://doi.org/10.1155/2023/5142965 
 
-[25] Souaissi, Z., Ouarda, T. B., & St-Hilaire, A. (2023). Non-parametric, semi-parametric, and machine learning models for river temperature frequency analysis at ungauged basins. Ecological Informatics, 75, 102107. https://doi.org/10.1016/j.ecoinf.2023.102107
+[25] Brun, P., Zimmermann, N. E., Hari, C., Pellissier, L., & Karger, D. N. (2022). Global climate-related predictors at kilometer resolution for the past and future. Earth System Science Data, 14(12), 5573-5603.‏ https://doi.org/10.5194/essd-14-5573-2022
 
-[26] Rocchi, A., Chiozzi, A., Nale, M., Nikolic, Z., Riguzzi, F., Mantovan, L., Gilli, A., & Benvenuti, E. (2022). A machine learning framework for multi-hazard risk assessment at the regional scale in earthquake and flood-prone areas. Applied Sciences, 12(2), 583.‏ https://doi.org/10.3390/app12020583
+[26] Jolliffe, I. T., & Cadima, J. (2016). Principal component analysis: a review and recent developments. Philosophical transactions of the royal society A: Mathematical, Physical and Engineering Sciences, 374(2065), 20150202. https://doi.org/10.1098/rsta.2015.0202
 
-[27] Alizadeh Ketek Lahijani, H., Leroy, S., Molavi-Arabshahi, M., Xie, H., Chen, S., Rahnama, R., ... & Hamzeh, M. A. Resources and threats to the South Caspian landscape linked to touristic attraction. Available at SSRN 4955569.‏ https://dx.doi.org/10.2139/ssrn.4955569
+[27] Wang, S., Wang, W., & Xu, F. (2025). Urban ecological environment quality evaluation using deep autoencoder integration of multisource remote sensing data. Ecological Informatics, 103347. https://doi.org/10.1016/j.ecoinf.2025.103347
 
-[28] Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., ... & Thépaut, J. N. (2023). ERA5 monthly averaged data on pressure levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), 10. https://doi.org/10.24381/cds.f17050d7
+[28] Lee, T., Kong, Y., Lee, J. H., & Yoon, H. C. (2024). Spring precipitation forecasting with exhaustive searching and LASSO using climate teleconnection for drought management. Climate Dynamics, 62(3), 1625-1648.‏ https://doi.org/10.1007/s00382-023-06983-5
 
-[29] Zhuang, X., Xue, M., Min, J., Kang, Z., Wu, N., & Kong, F. (2021). Error growth dynamics within convection-allowing ensemble forecasts over central US regions for days of active convection. Monthly Weather Review, 149(4), 959-977. https://doi.org/10.1175/MWR-D-20-0329.1
+[29] Teodorescu, V., & Obreja Brașoveanu, L. (2025). Assessing the Validity of k-Fold Cross-Validation for Model Selection: Evidence from Bankruptcy Prediction Using Random Forest and XGBoost. Computation, 13(5), 127. https://doi.org/10.3390/computation13050127
 
-[30] Molavi‐Arabshahi, M., Arpe, K., & Leroy, S. A. G. (2016). Precipitation and temperature of the southwest Caspian Sea region during the last 55 years: Their trends and teleconnections with large‐scale atmospheric phenomena. International Journal of Climatology, 36(5), 2156-2172. https://doi.org/10.1002/joc.4483
+[30] Owusu-Adjei, M., Ben Hayfron-Acquah, J., Frimpong, T., & Abdul-Salaam, G. (2023). Imbalanced class distribution and performance evaluation metrics: A systematic review of prediction accuracy for determining model performance in healthcare systems. PLOS Digital Health, 2(11), e0000290.‏ https://doi.org/10.1371/journal.pdig.0000290
 
-[31] McMaster, G. S., & Wilhelm, W. W. (1997). Growing degree-days: one equation, two interpretations. Agricultural and forest meteorology, 87(4), 291-300. https://doi.org/10.1016/S0168-1923(97)00027-0 
+[31] de Burgh-Day, C. O., & Leeuwenburg, T. (2023). Machine learning for numerical weather and climate modelling: a review. Geoscientific Model Development, 16(22), 6433-6477. https://doi.org/10.5194/gmd-16-6433-2023
 
-[32] Hinis, M. A., & Geyikli, M. S. (2023). Accuracy evaluation of standardized precipitation index (SPI) estimation under conventional assumption in Yeşilırmak, Kızılırmak, and Konya Closed Basins, Turkey. Advances in Meteorology, 2023(1), 5142965. https://doi.org/10.1155/2023/5142965 
+[32] Xiao, J., Tozato, K., Nomura, R., Otake, Y., Terada, K., & Moriguchi, S. (2025). Sensitivity analysis on critical combinations of input parameters in DEM granular flow analysis. Acta Geotechnica, 20(1), 387-412.‏ https://doi.org/10.1007/s11440-024-02499-2
 
-[33] Brun, P., Zimmermann, N. E., Hari, C., Pellissier, L., & Karger, D. N. (2022). Global climate-related predictors at kilometer resolution for the past and future. Earth System Science Data, 14(12), 5573-5603.‏ https://doi.org/10.5194/essd-14-5573-2022
+[33] Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., ... & Lee, S. I. (2020). From local explanations to global understanding with explainable AI for trees, Nat. Mach. Intell., 2, 56–67. https://doi.org/10.1038/s42256-019-0138-9
 
-[34] Jolliffe, I. T., & Cadima, J. (2016). Principal component analysis: a review and recent developments. Philosophical transactions of the royal society A: Mathematical, Physical and Engineering Sciences, 374(2065), 20150202. https://doi.org/10.1098/rsta.2015.0202
+[34] Li, Z. (2022). Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost. Computers, Environment and Urban Systems, 96, 101845. https://doi.org/10.1016/j.compenvurbsys.2022.101845
 
-[35] Wang, S., Wang, W., & Xu, F. (2025). Urban ecological environment quality evaluation using deep autoencoder integration of multisource remote sensing data. Ecological Informatics, 103347. https://doi.org/10.1016/j.ecoinf.2025.103347
+[35] Sathyanarayanan, S., & Tantri, B. R. (2024). Confusion matrix-based performance evaluation metrics. African Journal of Biomedical Research, 4023-4031.‏ https://doi.org/10.53555/AJBR.v27i4S.4345
 
-[36] Lee, T., Kong, Y., Lee, J. H., & Yoon, H. C. (2024). Spring precipitation forecasting with exhaustive searching and LASSO using climate teleconnection for drought management. Climate Dynamics, 62(3), 1625-1648.‏ https://doi.org/10.1007/s00382-023-06983-5
+[36] d’Alayer, F., Gabriel, E., & Soubeyrand, S. (2025). A marked sequential point process for disease surveillance: Modelling and optimization. Spatial Statistics, 100913. https://doi.org/10.1016/j.spasta.2025.100913
 
-[37] Teodorescu, V., & Obreja Brașoveanu, L. (2025). Assessing the Validity of k-Fold Cross-Validation for Model Selection: Evidence from Bankruptcy Prediction Using Random Forest and XGBoost. Computation, 13(5), 127. https://doi.org/10.3390/computation13050127
+[37] Géron, A. (2019). Hands-on machine learning with scikit-learn, keras, and tensorflow: concepts. Aurélien Géron-Google Kitaplar, yy https://books. google. com. tr/books. https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632
 
-[38] Owusu-Adjei, M., Ben Hayfron-Acquah, J., Frimpong, T., & Abdul-Salaam, G. (2023). Imbalanced class distribution and performance evaluation metrics: A systematic review of prediction accuracy for determining model performance in healthcare systems. PLOS Digital Health, 2(11), e0000290.‏ https://doi.org/10.1371/journal.pdig.0000290
+[38] Lavers, D. A., Simmons, A., Vamborg, F., & Rodwell, M. J. (2022). An evaluation of ERA5 precipitation for climate monitoring. Quarterly Journal of the Royal Meteorological Society, 148(748), 3152-3165.‏ https://doi.org/10.1002/qj.4351
 
-[39] de Burgh-Day, C. O., & Leeuwenburg, T. (2023). Machine learning for numerical weather and climate modelling: a review. Geoscientific Model Development, 16(22), 6433-6477. https://doi.org/10.5194/gmd-16-6433-2023
+[39] Gomes, M., Castro, A., Durão, R., & Soares, A. (2025). Geostatistical Predictive Model of Drought Severity: A Case Study of Southern Portugal. Mathematical Geosciences, 1-20. https://doi.org/10.1007/s11004-025-10184-7 
 
-[40] Xiao, J., Tozato, K., Nomura, R., Otake, Y., Terada, K., & Moriguchi, S. (2025). Sensitivity analysis on critical combinations of input parameters in DEM granular flow analysis. Acta Geotechnica, 20(1), 387-412.‏ https://doi.org/10.1007/s11440-024-02499-2
-
-[41] Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., ... & Lee, S. I. (2020). From local explanations to global understanding with explainable AI for trees, Nat. Mach. Intell., 2, 56–67. https://doi.org/10.1038/s42256-019-0138-9
-
-[42] Li, Z. (2022). Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost. Computers, Environment and Urban Systems, 96, 101845. https://doi.org/10.1016/j.compenvurbsys.2022.101845
-
-[43] Sathyanarayanan, S., & Tantri, B. R. (2024). Confusion matrix-based performance evaluation metrics. African Journal of Biomedical Research, 4023-4031.‏ https://doi.org/10.53555/AJBR.v27i4S.4345
-
-[44] d’Alayer, F., Gabriel, E., & Soubeyrand, S. (2025). A marked sequential point process for disease surveillance: Modelling and optimization. Spatial Statistics, 100913. https://doi.org/10.1016/j.spasta.2025.100913
-
-[45] Géron, A. (2019). Hands-on machine learning with scikit-learn, keras, and tensorflow: concepts. Aurélien Géron-Google Kitaplar, yy https://books. google. com. tr/books. https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632
-
-[46] Gomes, M., Castro, A., Durão, R., & Soares, A. (2025). Geostatistical Predictive Model of Drought Severity: A Case Study of Southern Portugal. Mathematical Geosciences, 1-20. https://doi.org/10.1007/s11004-025-10184-7
-
-[47] Urdangarin, A., Goicoa, T., Kneib, T., & Ugarte, M. D. (2024). A simplified spatial+ approach to mitigate spatial confounding in multivariate spatial areal models. Spatial Statistics, 59, 100804. https://doi.org/10.1016/j.spasta.2023.100804
-
-[48] Asfaw, D., Black, E., Brown, M., Nicklin, K. J., Otu-Larbi, F., Pinnington, E., ... & Quaife, T. (2018). TAMSAT-ALERT v1: a new framework for agricultural decision support. Geoscientific Model Development, 11(6), 2353-2371.‏ https://doi.org/10.5194/gmd-11-2353-2018
-
-[49] Liang, X. X., Gloaguen, E., Claprood, M., Paradis, D., & Lauzon, D. (2025). Graph Neural Network Framework for Spatiotemporal Groundwater Level Forecasting. Mathematical Geosciences, 1-23. https://doi.org/10.1007/s11004-025-10194-5
-
-[50] Lavers, D. A., Simmons, A., Vamborg, F., & Rodwell, M. J. (2022). An evaluation of ERA5 precipitation for climate monitoring. Quarterly Journal of the Royal Meteorological Society, 148(748), 3152-3165.‏ https://doi.org/10.1002/qj.4351
+[40] Asfaw, D., Black, E., Brown, M., Nicklin, K. J., Otu-Larbi, F., Pinnington, E., ... & Quaife, T. (2018). TAMSAT-ALERT v1: a new framework for agricultural decision support. Geoscientific Model Development, 11(6), 2353-2371.‏ https://doi.org/10.5194/gmd-11-2353-2018 
